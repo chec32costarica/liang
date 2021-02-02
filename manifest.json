@@ -1,6 +1,6 @@
 {
-    "name": "LiangMale App",
-    "short_name": "Liang Male",
+    "name": "梁玛乐",
+    "short_name": "梁玛乐",
     "start_url" : ".",
     "background_color": "#666666",
     "theme_color": "#999999",
@@ -9,12 +9,14 @@
         {
             "src": "img/logo192.png",
             "sizes": "192x192",
-            "type": "image/png"
+            "type": "image/png",
+            "purpose": "any maskable"
         },
         {
             "src": "img/logo512.png",
             "sizes": "512x512",
-            "type": "image/png"
+            "type": "image/png",
+            "purpose": "any maskable"
         }
     ]
 }
