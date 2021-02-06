@@ -1,3 +1,15 @@
 body{
     background-color: #cccccc;
+    margin: 0;
+    padding: 0;
+}
+.logo-text{
+    font-family: 'ZCOOL XiaoWei', serif;
+    font-size: 2rem;
+    color: #fff;
+}
+
+.top-bar{
+    display: flex;
+    justify-content: space-between;
 }
